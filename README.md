@@ -7,3 +7,6 @@
     * Reuse open source projects for free purposes.
 
 You can check the information at https://trd.ljdesignstudios.com and learn more about this contribution project.
+
+
+--- Updated: December 2023
